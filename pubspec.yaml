@@ -1,7 +1,6 @@
 name: firestore_query_builder
 description: A handy utility package to build firestore complex query with ease.
 version: 1.0.0
-author: justayyme@gmail.com
 homepage: https://github.com/ayyshim/firestore_query_builder
 
 environment:
