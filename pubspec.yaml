@@ -1,0 +1,20 @@
+name: firestore_query_builder
+description: A handy utility package to build firestore complex query with ease.
+version: 1.0.0
+author: justayyme@gmail.com
+homepage: https://github.com/ayyshim/firestore_query_builder
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cloud_firestore: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
