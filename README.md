@@ -12,8 +12,8 @@ Add package into your `pubspec.yaml` file.
 	...
 	dependencies:
 		...
-		cloud_firestore: ^1.0.0
-		firestore_query_builder: ^1.0.0
+		cloud_firestore: ^0.16.0+1
+		firestore_query_builder: ^1.0.0+1
 		...
 ```
 ## Usage
